@@ -3,15 +3,13 @@
   "main": "./lib/processing-autocomplete",
   "version": "0.1.0",
   "description": "Autocomplete package for the Processing programming language",
-  "keywords": [
-  ],
-  "repository": "https://github.com/atom/processing-autocomplete",
+  "keywords": [],
+  "repository": "https://github.com/Stefterv/processing-autocomplete",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
