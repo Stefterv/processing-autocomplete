@@ -1,7 +1,7 @@
 {
   "name": "processing-autocomplete",
   "main": "./lib/processing-autocomplete",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Autocomplete package for the Processing programming language",
   "keywords": [],
   "repository": "https://github.com/Stefterv/processing-autocomplete",
