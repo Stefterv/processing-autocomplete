@@ -1,0 +1,10 @@
+{
+  "Array":{},
+  "JSONObject":{
+    "getString":["key","(defaultValue)"]
+  },
+  "PVector":{
+    "random2D":[],
+    "fromAngle":["angle"]
+  }
+}
