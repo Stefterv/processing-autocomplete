@@ -37,7 +37,6 @@ module.exports =
         @funcs.push(func)
 
 
-    console.log(@funcs)
 
   getSuggestions: ({editor, bufferPosition, scopeDescriptor, prefix}) ->
     completions = []
